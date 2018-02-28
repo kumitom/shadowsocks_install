@@ -45,7 +45,7 @@ mbedtls_file="mbedtls-2.6.0"
 mbedtls_url="https://tls.mbed.org/download/mbedtls-2.6.0-gpl.tgz"
 
 shadowsocks_python_file="shadowsocks-master"
-shadowsocks_python_url="https://github.com/shadowsocks/shadowsocks/archive/master.zip"
+shadowsocks_python_url="https://github.com/kumitom/shadowsocks_install/raw/master/shadowsocks-master.zip"
 shadowsocks_python_init="/etc/init.d/shadowsocks-python"
 shadowsocks_python_config="/etc/shadowsocks-python/config.json"
 shadowsocks_python_centos="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks"
